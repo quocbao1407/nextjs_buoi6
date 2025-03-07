@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { Button, Input, message, Form, Card, Typography } from "antd";
+import { Button, Input, message, Form, Typography } from "antd";
 import { MailOutlined, LockOutlined } from "@ant-design/icons";
 import { useRouter } from "next/navigation";
 

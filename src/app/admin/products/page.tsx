@@ -1,5 +1,5 @@
 "use client";
-import { Card, Col, Row, Typography, Table, Button, message, Modal } from "antd";
+import {  Col, Row, Typography, Table, Button,  Modal } from "antd";
 import React, { useState, useEffect } from "react";
 
 const { Title } = Typography;
