@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from "react";
-import { Table, Button, message, Popconfirm, Card, Typography } from "antd";
+import { Table, Button, message, Popconfirm, Typography } from "antd";
 import { MinusOutlined, PlusOutlined } from "@ant-design/icons";
 
 const { Title } = Typography;
